@@ -1,4 +1,4 @@
-House Price Predictor using Linear Regression(gradient descent)
+**House Price Predictor using Linear Regression(gradient descent)**
 
 This project implements Linear regression on a house pricing dataset(https://www.kaggle.com/datasets/yasserh/housing-prices-dataset). The goal is to predict how the numerical features affect the house prices according to thrgiven data.
 
